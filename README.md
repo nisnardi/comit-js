@@ -1,2 +1,2 @@
-# comit-js
+# ComIT JavaScript
 ComIT JavaScript Exercises
